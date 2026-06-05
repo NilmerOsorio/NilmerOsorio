@@ -2,6 +2,7 @@
 
 ```text id="init01"
 [ ctOS v2.0.4 ] :: BOOTING SYSTEM UI...
+
 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
 
 🟢 STATUS: ONLINE
