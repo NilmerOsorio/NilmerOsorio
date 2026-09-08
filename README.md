@@ -1,6 +1,6 @@
 # ⚡ SYSTEM_INIT // ctOS USER INTERFACE
 
-```text id="init01"
+```text
 [ ctOS v2.0.4 ] :: BOOTING SYSTEM UI...
 
 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
@@ -10,9 +10,9 @@
 📡 SCANNING PROFILE DATA...
 ```
 
-NILMER OSORIO
+**NILMER OSORIO**
 
-```text id="core01"
+```text
 > ID................. VERIFIED ✔
 > STATUS............. ACTIVE 🟢
 > ROLE............... ENGINEERING STUDENT 🎓
@@ -23,74 +23,86 @@ NILMER OSORIO
 
 # 📋 USER_PROFILE // ABOUT ME 🧠
 
-```bash id="profile01"
+```bash
 > NAME: Nilmer Osorio
 > ROLE: Engineering Student 🎓
 > STATUS: Continuous Learning 📚
-> FOCUS: Software Engineering + Systems Development 💻
-> MISSION: Build real projects while improving daily ⚙️
+> FOCUS: Software Development + Systems Engineering 💻
+> MISSION: Build real projects while improving every day ⚙️
 ```
 
 ### 👤 SYSTEM DESCRIPTION
 
-* 🎓 Engineering student focused on software & systems
-* 💻 Learning development step by step, project-based
+* 🎓 Engineering student focused on software development & systems
+* 💻 Learning through practical projects and continuous experimentation
+* 🌐 Building web applications with HTML, CSS & JavaScript
+* 🐍 Exploring Python for programming, automation and backend development
 * 🗄️ Strong interest in databases (SQL / PostgreSQL / Supabase)
-* 🎮 Passionate about video games & game mechanics
+* ⚙️ Interested in software architecture, systems and development tools
+* 🎮 Passionate about video games and technology
 * 📺 Anime enthusiast (storytelling & design inspiration)
 * 🎧 Electronic music listener (focus mode activated)
 * ⚽ Sports enjoyer (physical + mental balance)
-* 🚀 Always exploring new tech systems and tools
+* 🚀 Always exploring new technologies and tools
 
 ---
 
 # 🛠️ TECH_STACK // ACTIVE MODULES ⚙️
 
 ### 💻 CORE TECHNOLOGIES
-![Tech Stack](https://skillicons.dev/icons?i=java,postgres,supabase,arduino)
+
+![Tech Stack](https://skillicons.dev/icons?i=java,postgres,supabase,arduino, html,css,js,python)
+
 ---
 
 ### 🧰 DEVELOPMENT ENVIRONMENT
 
 ![Dev Env](https://skillicons.dev/icons?i=vscode,idea,git,linux,github)
+
 ---
 
 # 🚀 CURRENT_OPERATIONS // LIVE TASKS 🔄
 
-```text id="ops01"
+```text
 [ SYSTEM STATUS: LEARNING MODE ENABLED ]
 [ PROCESS: CONTINUOUS UPGRADE IN PROGRESS ]
 ```
 
 ### 📌 ACTIVE LEARNING MODULES
 
-* 🎮 Game Development fundamentals loading...
+* 🌐 HTML structure & semantic web development
+* 🎨 CSS styling, layouts & responsive design
+* ⚙️ JavaScript fundamentals & DOM manipulation
+* 🐍 Python programming & application development
 * ☕ Object-Oriented Programming (OOP) compiling...
 * 🖥️ Operating Systems analysis in progress...
 * 🐧 Linux terminal mastery training...
 * 🤖 Arduino systems integration experiments...
-* 🗄️ SQL / Database optimization studies...
-* 🔐 Cybersecurity basics initialization...
+* 🗄️ SQL / PostgreSQL database optimization studies...
+* 🔐 Cybersecurity fundamentals initialization...
+* 🔗 API integration & application development
 
 ---
 
 ### ⏳ UPCOMING MODULES
 
-```text id="next01"
+```text
 [ QUEUE: WAITING FOR INSTALLATION ]
 ```
 
-* 🌐 HTML structure engine
-* 🎨 CSS visual rendering system
-* ⚙️ JavaScript interaction layer
+* 🌐 Advanced JavaScript development
+* 🔗 REST API integration
+* 🐍 Python backend development
 * 🧩 Full-Stack development pipeline
+* 🗄️ Advanced database design & optimization
 * 🔐 Information Security deep dive
+* 🏗️ Software architecture & scalable applications
 
 ---
 
 # 🤝 COLLABORATION_REQUEST // NETWORK OPEN 🌐
 
-```text id="collab01"
+```text
 > CONNECTION STATUS: OPEN 🌍
 > INCOMING REQUESTS: ACCEPTED
 > FIREWALL: FLEXIBLE MODE ENABLED
@@ -100,10 +112,12 @@ NILMER OSORIO
 
 * 🚀 Open-source projects
 * ☕ Java application development
-* 🗄️ SQL / PostgreSQL database systems
-* 🌐 Web development (future focus)
-* 🎮 Game development projects
-* 🧠 Learning-focused teamwork environments
+* 🌐 HTML / CSS / JavaScript web projects
+* 🐍 Python applications and automation
+* 🗄️ SQL / PostgreSQL / Supabase systems
+* 🔗 API integration projects
+* 🔐 Learning-focused software projects
+* 🧠 Collaborative development environments
 
 💬 *Always open to working on projects where I can learn, contribute, and grow as a developer.*
 
@@ -111,9 +125,12 @@ NILMER OSORIO
 
 # 📊 SYSTEM_STATS // GITHUB ANALYTICS 📡
 
-```text id="stats01"
+```text
 [ SCANNING REPOSITORIES... ]
 [ ANALYZING CODE ACTIVITY... ]
+```
+
+````
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NilmerOsorio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
@@ -121,18 +138,25 @@ NILMER OSORIO
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NilmerOsorio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 ---
+````
+
+---
 
 # 📡 SYSTEM_LOG // FINAL OUTPUT 🧾
 
-```text id="log01"
+```text
 > LEARNING STATUS: ACTIVE 📚
 > BUILD STATUS: IN PROGRESS ⚙️
 > IMPROVEMENT LOOP: CONTINUOUS 🔁
 > SYSTEM HEALTH: STABLE 🟢
 ```
 
-```text id="end01"
+```text
 [ ctOS NOTICE ]
+
 USER PROFILE SYNCHRONIZED SUCCESSFULLY ✔
+CURRENT STACK UPDATED ✔
+LEARNING MODULES UPDATED ✔
+
 READY FOR NEXT TASK 🚀
 ```
