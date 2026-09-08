@@ -130,14 +130,10 @@
 [ ANALYZING CODE ACTIVITY... ]
 ```
 
-````
-```
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NilmerOsorio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NilmerOsorio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
----
 ````
 
 ---
