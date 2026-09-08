@@ -51,7 +51,7 @@
 
 ### 💻 CORE TECHNOLOGIES
 
-![Tech Stack](https://skillicons.dev/icons?i=java,postgres,supabase,arduino, html,css,js,python)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,python,java,postgres,supabase,arduino)
 
 ---
 
