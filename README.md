@@ -135,24 +135,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NilmerOsorio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 ````
+📡 SYSTEM_LOG // FINAL OUTPUT 🧾
 
----
-
-# 📡 SYSTEM_LOG // FINAL OUTPUT 🧾
-
-```text
 > LEARNING STATUS: ACTIVE 📚
 > BUILD STATUS: IN PROGRESS ⚙️
 > IMPROVEMENT LOOP: CONTINUOUS 🔁
 > SYSTEM HEALTH: STABLE 🟢
-```
 
-```text
+
 [ ctOS NOTICE ]
-
 USER PROFILE SYNCHRONIZED SUCCESSFULLY ✔
-CURRENT STACK UPDATED ✔
-LEARNING MODULES UPDATED ✔
-
 READY FOR NEXT TASK 🚀
-```
